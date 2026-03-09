@@ -20,9 +20,9 @@
        STAP 2: Vervang deze URL met waar jij de bestanden host
        (bijv. https://jouwnaam.github.io/outlook-addin/)
        =============================================================== -->
-  <IconUrl DefaultValue="https://JOUW-URL-HIER/assets/icon-32.png"/>
+  <IconUrl DefaultValue="https://tommatser-hub.github.io/outlook-order-addin/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://JOUW-URL-HIER/assets/icon-80.png"/>
-  <SupportUrl DefaultValue="https://JOUW-URL-HIER"/>
+  <SupportUrl DefaultValue="https://tommatser-hub.github.io/outlook-order-addin/"/>
 
   <AppDomains>
     <!-- Voeg hier extra domeinen toe indien nodig -->
@@ -43,7 +43,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://JOUW-URL-HIER/taskpane.html"/>
+        <SourceLocation DefaultValue="https://tommatser-hub.github.io/outlook-order-addin/taskpane.html"/>
         <RequestedHeight>450</RequestedHeight>
       </DesktopSettings>
     </Form>
